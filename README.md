@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wbrefvem
 - 👀 I’m interested in Kubernetes and old dusty folk records.
-- 🌱 I’m currently learning how to build operators on Kubernetes.
+- 🌱 My experience building a Kubernetes operator has taught me that k8s really is an operating system.
 - 💞️ I’m looking to collaborate on anything related to Go and Kubernetes.
 - 📫 How to reach me: wbrefvem on Kubernetes Slack.
 
